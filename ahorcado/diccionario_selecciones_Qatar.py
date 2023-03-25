@@ -1,0 +1,1 @@
+selecciones = ['Argentina', 'Francia', 'Croacia', 'Marruecos', 'Paises Bajos', 'Inglaterra', 'Brasil', 'Portugal', 'Japon', 'Senegal', 'Australia', 'Suiza', 'España', 'EEUU', 'Polonia', 'Corea del Sur', 'Alemania', 'Ecuador', 'Camerun', 'Uruguay', 'Tunez', 'Mexico', 'Belgica', 'Ghana', 'Arabia Saudita', 'Iran', 'Costa Rica', 'Dinamarca', 'Serbia', 'Gales', 'Canada', 'Qatar']
